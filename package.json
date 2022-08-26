@@ -1,0 +1,8 @@
+{
+  "name": "cli-tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wjourney/cli-tool.git",
+  "author": "Wenwen Wu <wenwen.wu@shopee.com>",
+  "license": "MIT"
+}
